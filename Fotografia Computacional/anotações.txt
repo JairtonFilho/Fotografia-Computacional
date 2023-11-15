@@ -1,0 +1,19 @@
+- Sensores de câmera digitais: são usados para converter a luz em foto. capturam a luz que vem da lente através de fotodiodos (ou pixels) e armazenam a luz como um sinal elétrico.
+	- CMOS: semicondutor de óxido metálico complementar. os pixels vêm com amplificadores para o sinal elétrico, e esta carga já passa por um conversor analógico-digital antes de sair – assim, o sensor emite valores digitais.
+	- CCD: dispositivo de carga acoplada, possui um circuito composto por capacitores conectados uns aos outros. O sinal elétrico é transportado para fora do sensor, é amplificado, e passa por um conversor analógico-digital. Assim, a carga de cada fotodiodo vira um valor digital.
+
+- Comparativo:
+	- CCD: 
+		- Resolução: Até 3.200 megapixels
+		- Cores: Maior fidelidade
+		- Sensibilidade à luz: Maior
+		- Velocidade de captura: Menor, limitada a 11 fps
+		- Consumo de energia: Maior, até 100x a mais que CMOS
+		- Custo de fabricação: Mais caro
+	- CMOS: 
+		- Resolução: Chega a 200 megapixels
+		- Cores: Menor fidelidade
+		- Sensibilidade à luz: Menor
+		- Velocidade de captura: Maior, pode passar dos 45 fps
+		- Consumo de energia: Menor
+		- Custo de fabricação: Mais barato
