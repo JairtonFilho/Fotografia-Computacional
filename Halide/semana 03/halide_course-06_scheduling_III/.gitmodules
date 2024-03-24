@@ -1,0 +1,3 @@
+[submodule "3rdparty/hbpp"]
+	path = 3rdparty/hbpp
+	url = https://github.com/TIC-13/hbpp.git
